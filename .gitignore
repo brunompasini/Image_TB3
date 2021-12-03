@@ -1,0 +1,5 @@
+# ignoring pdfs and application folder
+
+*.pdf
+Applications/
+examen_pratique/
